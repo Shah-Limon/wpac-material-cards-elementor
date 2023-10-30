@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name:       WPAC Material Cards
- * Plugin URI:        https://github.com/wpacademy/wpac-material-cards
+ * Plugin Name:       TEAM BTTB Material Cards
+ * Plugin URI:        https://github.com/Shah-Limon/wpac-material-cards-elementor
  * Description:       Beautful Material Cards widget for Elementor.
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            Mian Shahzad Raza
- * Author URI:        https://twitter.com/MSRwpac
+ * Author:           Shah Limon
+ * Author URI:        https://facebook.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       wpac-material-cards
+ * Text Domain:       tbbm-team-material-cards
  */
 if( ! defined ('ABSPATH') ) {
     exit;
